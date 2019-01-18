@@ -1,2 +1,2 @@
 # CALCULATOR APP USING KOTLIN
-![Screenshot](https://raw.githubusercontent.com/RuchiteshPM/CALCPRO-app/master/SS.png?token=An-pSbHpW37rlrbYLE6tJjHvCkx5uYPMks5cQhAiwA%3D%3D)
+![Screenshot](https://lh6.googleusercontent.com/b9_TBKnvcX8o3e2xdSczhFO7SXEHUwIziGI_fq4kf31oMaflBQcHRKnrLdltYocL6sK2nMUiPePCjw6CreDr=w1366-h594)
