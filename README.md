@@ -1,2 +1,2 @@
 # CALCULATOR APP USING KOTLIN
-![Screenshot](ss.png)
+![Screen shot](https://github.com/Rpmalukani22/CALCPRO-app/blob/master/SS.png)
