@@ -1,2 +1,4 @@
 # CALCULATOR APP USING KOTLIN
-![Screen shot](https://github.com/Rpmalukani22/CALCPRO-app/blob/master/SS.png)
+<div align="center">
+    <img src="https://github.com/Rpmalukani22/CALCPRO-app/blob/master/SS.png" width="400px"</img> 
+</div>
